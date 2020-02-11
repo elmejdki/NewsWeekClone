@@ -59,3 +59,16 @@ header nav #search-input {
   width: 100px;
   margin-right: 66px;
 }
+
+.burger-icon .fas {
+  position: relative;
+  top: 4px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+@media (max-width: 991px) {
+  header .logo svg {
+    width: 140px;
+  }
+}
