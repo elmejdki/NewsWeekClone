@@ -87,6 +87,11 @@ main {
   color: red;
 }
 
+.black-to-red:hover {
+  color: red;
+  cursor: pointer;
+}
+
 .stories article a {
   color: black;
 }
