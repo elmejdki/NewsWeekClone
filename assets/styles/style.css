@@ -1,6 +1,4 @@
 * {
-  padding: 0;
-  margin: 0;
   box-sizing: border-box !important;
 }
 
@@ -93,16 +91,45 @@ main {
   color: black;
 }
 
-.stories article h4 a:hover {
+.stories .article-1 h4 a:hover {
   text-decoration: underline #f72210 !important;
 }
 
-.stories article h6 a:hover {
+.stories .article-2 h6 a:hover {
   color: red;
 }
 
 .stories section > h6 {
   color: #ababaa !important;
+}
+
+.stories .article-1 p {
+  color: #606060;
+}
+
+.culture {
+  background-color: #f4f5f7;
+}
+
+.top-story .culture article .body {
+  color: #8e8e8f;
+}
+
+.top-story .culture article .tag {
+  background-color: #c2d4d7;
+  cursor: pointer;
+  color: #606060;
+  font-size: 14px;
+  padding: 2px 3px;
+}
+
+.top-story .culture article .tag:hover {
+  background-color: black;
+  color: #c2d4d7;
+}
+
+.stories .article-3 h6 a:hover {
+  text-decoration: underline #f72210 !important;
 }
 
 @media (max-width: 991px) {
