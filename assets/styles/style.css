@@ -8,6 +8,10 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.max-12k {
+  max-width: 1200px;
+}
+
 header > div {
   background-color: red;
 }
