@@ -243,15 +243,7 @@ article a {
   }
 }
 
-@media (max-width: 425px) {
-  header .n-logo {
-    display: block !important;
-  }
-
-  header .logo svg {
-    display: none;
-  }
-
+@media (max-width: 768px) {
   .subscribe {
     flex-wrap: wrap;
   }
@@ -273,6 +265,16 @@ article a {
 
   .newsletter .body {
     text-align: center;
+  }
+}
+
+@media (max-width: 425px) {
+  header .n-logo {
+    display: block !important;
+  }
+
+  header .logo svg {
+    display: none;
   }
 }
 
