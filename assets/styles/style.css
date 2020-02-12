@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box !important;
+  box-sizing: border-box;
 }
 
 body {
@@ -137,8 +137,31 @@ main {
   color: #c2d4d7;
 }
 
+.mt {
+  margin-top: 130px;
+}
+
 .stories .article-3 h6 a:hover {
-  text-decoration: underline #f72210 !important;
+  text-decoration: underline #f72210;
+}
+
+.n-logo {
+  display: block;
+  cursor: pointer;
+  min-width: 40px;
+  height: 35px;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+  margin-right: 10px;
+}
+
+.jumbotron {
+  max-width: 300px;
+}
+
+.sticky-100-top {
+  position: -webkit-sticky;
+  position: sticky;
+  top: -100%;
 }
 
 @media (max-width: 991px) {
