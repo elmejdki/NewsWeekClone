@@ -189,7 +189,7 @@ article a {
 
 @media (max-width: 991px) {
   header .logo svg {
-    width: 110px;
+    width: 140px;
   }
 
   .mt {
@@ -197,7 +197,7 @@ article a {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 375px) {
   header .n-logo {
     display: block !important;
   }
