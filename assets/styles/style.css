@@ -116,6 +116,10 @@ main {
   background-color: #f4f5f7;
 }
 
+.text-gray {
+  color: #6d6d6d;
+}
+
 .top-story .culture article .body {
   color: #8e8e8f;
 }
