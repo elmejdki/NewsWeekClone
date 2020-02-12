@@ -223,6 +223,24 @@ article a {
   width: 48%;
 }
 
+footer {
+  background-color: white;
+}
+
+.footer-title .brand svg {
+  fill: red;
+  width: 236;
+  height: 36px;
+}
+
+footer .fab {
+  font-size: 24px;
+}
+
+.to-black:hover {
+  color: black;
+}
+
 @media (min-width: 992px) {
   .newsletter {
     height: 285px;
@@ -277,9 +295,3 @@ article a {
     display: none;
   }
 }
-
-/* @media (max-width: 768px) {
-  body {
-    background-color: coral;
-  }
-} */
