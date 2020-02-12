@@ -75,11 +75,11 @@ main {
   background-color: white;
 }
 
-.stories .wrap {
+.article-1 .wrap {
   position: relative;
 }
 
-.stories .wrap .label {
+.article-1 .wrap .label {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -92,11 +92,11 @@ main {
   cursor: pointer;
 }
 
-.stories article a {
-  color: black;
+article a {
+  color: black !important;
 }
 
-.stories .article-1 h4 a:hover {
+.article-1 h4 a:hover {
   text-decoration: underline #f72210 !important;
 }
 
@@ -108,8 +108,17 @@ main {
   color: #ababaa !important;
 }
 
-.stories .article-1 p {
+.article-1 p {
   color: #606060;
+}
+
+.bg-gray {
+  cursor: pointer;
+  background-color: rgba(233, 233, 233, 0.664);
+}
+
+.bg-gray:hover {
+  background-color: rgba(195, 195, 195, 0.609);
 }
 
 .culture {
@@ -141,7 +150,8 @@ main {
   margin-top: 130px;
 }
 
-.stories .article-3 h6 a:hover {
+.stories .article-3 h6 a:hover,
+.article-title a:hover {
   text-decoration: underline #f72210;
 }
 
@@ -164,14 +174,27 @@ main {
   top: -100%;
 }
 
+.fs-20 {
+  font-size: 20px;
+}
+
+.bg-red {
+  background-color: red;
+  color: white;
+}
+
+.text-red {
+  color: red;
+}
+
 @media (max-width: 991px) {
   header .logo svg {
     width: 140px;
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   body {
     background-color: coral;
   }
-}
+} */
