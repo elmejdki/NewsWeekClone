@@ -146,3 +146,9 @@ main {
     width: 140px;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    background-color: coral;
+  }
+}
