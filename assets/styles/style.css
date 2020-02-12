@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+  box-sizing: border-box !important;
 }
 
 body {
@@ -189,11 +189,21 @@ article a {
 
 @media (max-width: 991px) {
   header .logo svg {
-    width: 140px;
+    width: 110px;
   }
 
   .mt {
     margin-top: 65px;
+  }
+}
+
+@media (max-width: 320px) {
+  header .n-logo {
+    display: block !important;
+  }
+
+  header .logo svg {
+    display: none;
   }
 }
 
