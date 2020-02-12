@@ -147,7 +147,7 @@ article a {
 }
 
 .mt {
-  margin-top: 130px;
+  margin-top: 140px;
 }
 
 .stories .article-3 h6 a:hover,
@@ -190,6 +190,10 @@ article a {
 @media (max-width: 991px) {
   header .logo svg {
     width: 140px;
+  }
+
+  .mt {
+    margin-top: 65px;
   }
 }
 
