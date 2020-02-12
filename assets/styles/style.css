@@ -183,8 +183,18 @@ article a {
   color: white;
 }
 
-.text-red {
+.text-red,
+.article-1 .wrap a.text-red {
   color: red;
+}
+
+.count-link {
+  width: 70px;
+  height: 52px;
+  line-height: 60px;
+  padding-left: 28px;
+  display: block;
+  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
 }
 
 @media (max-width: 991px) {
