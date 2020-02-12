@@ -237,6 +237,11 @@ footer .fab {
   font-size: 24px;
 }
 
+footer .fab:hover {
+  cursor: pointer;
+  color: black;
+}
+
 .to-black:hover {
   color: black;
 }
