@@ -1,63 +1,47 @@
-# Project Name
+# NewsWeek Clone
 
-> One paragraph statement about the project.
+> This is a clone of The News Week website, which I have managed to duplicate on my own using pure HTML and CSS and bootstrap, and I have named it NewsWeek-Clone.
 
-![screenshot](./app_screenshot.png)
+### Desktop version:
+![screenshot](./screenshot1.png)
 
-Additional description about the project and its features.
+### Tablet version:
+![screenshot](./screenshot3.png)
+
+### Mobile version:
+![screenshot](./screenshot2.png)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML, CSS,
+- Bootsrap,
+- mediaQueries.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://raw.githack.com/elmejdki/NewsWeekClone/create-news-page/index.html)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+To make this repository working in your local machine you need only a browser.
 
 ## Authors
 
-👤 **Author1**
+👤 **Zakariae El Mejdki**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@elmejdki](https://github.com/elmejdki)
+- Twitter: [@ZakariaeElMEjdki](https://twitter.com/0ca7848f87ab470)
+- Linkedin: [Zakariae El Mejdki](https://www.linkedin.com/in/zakariae-el-mejdki-644898139/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/elmejdki/TNW-clone/issues).
 
 ## Show your support
 
@@ -65,9 +49,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+a big hat to me and my partner Brenda and anyone who help us either by openning issues on this repository or reviewing our code :)
 
 ## 📝 License
 
