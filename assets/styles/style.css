@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box !important;
+  box-sizing: border-box;
 }
 
 body {
@@ -89,11 +89,11 @@ main {
 }
 
 article a {
-  color: black !important;
+  color: black;
 }
 
 .article-1 h4 a:hover {
-  text-decoration: underline #f72210 !important;
+  text-decoration: underline #f72210;
 }
 
 .stories .article-2 h6 a:hover {
@@ -101,7 +101,7 @@ article a {
 }
 
 .stories section > h6 {
-  color: #ababaa !important;
+  color: #ababaa;
 }
 
 .article-1 p {
@@ -292,10 +292,6 @@ footer .fab:hover {
 }
 
 @media (max-width: 425px) {
-  header .n-logo {
-    display: block !important;
-  }
-
   header .logo svg {
     display: none;
   }
