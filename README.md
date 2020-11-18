@@ -47,10 +47,6 @@ Feel free to check the [issues page](https://github.com/elmejdki/TNW-clone/issue
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-a big hat to me and my partner Brenda and anyone who help us either by openning issues on this repository or reviewing our code :)
-
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
